@@ -24,6 +24,7 @@ getting ≥ W.
 
 
 Problem 2 (Word Pyramids).
+
 Maybe you have seen the following kind of puzzle before:
 I was having – – – with my best – – – – . We were watching a game of cricket, but both the
 – – – – – were terrible. It was the – – – – – – game ever. The losing team captain’s post-match
