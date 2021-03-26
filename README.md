@@ -22,6 +22,7 @@ largest W which is always guaranteed to Alice.
 ask the user to input Bob’s move. If all goes well, then no matter how the user plays you should be
 getting ≥ W.
 
+
 Problem 2 (Word Pyramids).
 Maybe you have seen the following kind of puzzle before:
 I was having – – – with my best – – – – . We were watching a game of cricket, but both the
@@ -41,6 +42,7 @@ Clarification: I actually need the number of the “tips” of the pyramids. In 
 LIGAMENTS is the tip. If the answer to part (a) is L, I want to know how many words in the
 dictionary can be the tip of an L-length pyramid.
 c. Takes input a valid word in the dictionary, and then finds the longest pyramid containing that word.Problem 2 (Word Pyramids). (2 points)
+
 
 Problem 3 (Reconstituting String ... but now with Anagrams).
 Remember the problem from PSet 4? You were given a string s[1 : n] and a dictionary D() and you were
