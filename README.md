@@ -45,6 +45,7 @@ c. Takes input a valid word in the dictionary, and then finds the longest pyrami
 
 
 Problem 3 (Reconstituting String ... but now with Anagrams).
+
 Remember the problem from PSet 4? You were given a string s[1 : n] and a dictionary D() and you were
 asked whether the string could be split into valid words. For instance, alltheworldisastage could be
 reconstituted into all, the, world, is, a, stage.
